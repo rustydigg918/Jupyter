@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# List the datasets(in order for it not to reload while commiting)
+bodton.csv
