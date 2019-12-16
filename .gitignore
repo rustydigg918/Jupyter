@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 # List the datasets(in order for it not to reload while commiting)
-bodton.csv
+boston.csv
+
+
