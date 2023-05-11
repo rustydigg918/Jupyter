@@ -8,7 +8,10 @@
 !pip install ghostscript
 !mkdir input_papers
 !mkdir output_papers
-
+"""
+https://github.com/amrrs/csvchat-langchain/blob/main/Chat_with_CSV_%26_Excel_using_LangChain_and_OpenAI.ipynb
+https://gist.github.com/armgilles/194bcff35001e7eb53a2a8b441e8b2c6
+"""
 
 # To upload the files from your local system to the drive >>>>>
 from google.colab import files
