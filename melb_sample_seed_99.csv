@@ -1,0 +1,101 @@
+,Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname,Propertycount
+4785,Port Melbourne,282 Ross St,3,h,1655000.0,S,Chisholm,25/02/2017,3.8,3207.0,3.0,1.0,1.0,220.0,,,Port Phillip,-37.8329,144.942,Southern Metropolitan,8648.0
+5885,Strathmore,78 Hillsyde Pde,3,h,905000.0,S,Considine,3/09/2016,9.7,3041.0,3.0,2.0,2.0,662.0,,,Moonee Valley,-37.7356,144.9242,Western Metropolitan,3284.0
+4170,Moorabbin,2b Rice St,3,t,910000.0,S,hockingstuart,12/11/2016,14.6,3189.0,3.0,2.0,2.0,312.0,,,Kingston,-37.9412,145.0491,Southern Metropolitan,2555.0
+10466,Prahran,5/305 Dandenong Rd,2,u,740000.0,S,Biggin,27/05/2017,4.6,3181.0,2.0,1.0,1.0,0.0,100.0,1940.0,Stonnington,-37.85931,145.00616000000005,Southern Metropolitan,7717.0
+1650,Canterbury,29 Rubens Gr,4,h,3800000.0,PI,Marshall,11/02/2017,9.0,3126.0,4.0,1.0,1.0,858.0,,,Boroondara,-37.8183,145.0667,Southern Metropolitan,3265.0
+1847,Caulfield South,5 Field St,3,u,1110000.0,S,hockingstuart,16/07/2016,9.3,3162.0,3.0,2.0,1.0,299.0,,,Glen Eira,-37.8891,145.0294,Southern Metropolitan,5051.0
+1202,Brighton East,23 Camperdown St,4,t,2570000.0,S,Gary,12/11/2016,10.7,3187.0,4.0,3.0,2.0,898.0,,,Bayside,-37.9176,145.0087,Southern Metropolitan,6938.0
+1848,Caulfield South,48A Jupiter St,4,t,1410000.0,S,Gary,19/11/2016,9.3,3162.0,4.0,2.0,3.0,342.0,,2005.0,Glen Eira,-37.8957,145.0196,Southern Metropolitan,5051.0
+7603,Brunswick,17 Ballarat St,2,h,830000.0,VB,Nelson,13/05/2017,5.2,3056.0,2.0,1.0,1.0,153.0,,,Moreland,-37.766,144.9609,Northern Metropolitan,11918.0
+10108,Ascot Vale,13 Victory Pde,3,h,1370000.0,S,Nelson,27/05/2017,4.3,3032.0,3.0,2.0,2.0,566.0,,,Moonee Valley,-37.7801,144.90976,Western Metropolitan,6567.0
+8919,Pascoe Vale,1 Virginia St,4,h,780000.0,VB,Brad,1/07/2017,8.5,3044.0,4.0,2.0,3.0,555.0,128.0,1950.0,Moreland,-37.71561,144.94336,Northern Metropolitan,7485.0
+723,Bentleigh,548 Centre Rd,3,h,770000.0,VB,Woodards,10/12/2016,13.0,3204.0,3.0,2.0,2.0,0.0,,1987.0,Glen Eira,-37.9193,145.0438,Southern Metropolitan,6795.0
+614,Balwyn North,7 Clifton St,4,h,1400000.0,PI,hockingstuart,8/10/2016,9.2,3104.0,4.0,2.0,2.0,714.0,,,Boroondara,-37.8007,145.1002,Southern Metropolitan,7809.0
+12633,Albert Park,121 Richardson St,3,h,1960000.0,S,hockingstuart,16/09/2017,3.0,3206.0,3.0,2.0,,152.0,161.0,1900.0,,-37.84662,144.95675,Southern Metropolitan,3280.0
+1383,Brunswick,46 Tinning St,2,h,765000.0,S,Nelson,28/05/2016,5.2,3056.0,2.0,1.0,1.0,199.0,120.0,1880.0,Moreland,-37.759,144.9597,Northern Metropolitan,11918.0
+5991,Sunshine,107 Wright St,3,h,607000.0,S,YPA,25/02/2017,12.6,3020.0,3.0,1.0,2.0,563.0,122.0,1965.0,Brimbank,-37.7956,144.826,Western Metropolitan,3755.0
+116,Albert Park,227a Danks St,3,h,2030000.0,S,hockingstuart,28/08/2016,3.3,3206.0,3.0,2.0,0.0,152.0,,,Port Phillip,-37.8488,144.9551,Southern Metropolitan,3280.0
+424,Ashwood,3 Harold St,4,h,1500000.0,S,Buxton,15/10/2016,12.2,3147.0,4.0,2.0,1.0,593.0,255.0,1930.0,Monash,-37.8655,145.096,Southern Metropolitan,2894.0
+10734,Maidstone,35 Lindenow St,3,h,876000.0,S,Biggin,8/07/2017,6.4,3012.0,3.0,1.0,2.0,420.0,,,Maribyrnong,-37.77915,144.88137,Western Metropolitan,3873.0
+2790,Glen Iris,115 Tooronga Rd,2,h,1020000.0,SP,Jellis,12/11/2016,9.2,3146.0,2.0,1.0,0.0,251.0,,1910.0,Stonnington,-37.8627,145.0402,Southern Metropolitan,10412.0
+1329,Brunswick,3 Ballarat St,1,t,625000.0,PI,Jellis,18/06/2016,5.2,3056.0,1.0,1.0,1.0,82.0,114.0,1930.0,Moreland,-37.7661,144.9614,Northern Metropolitan,11918.0
+1280,Brunswick,78 Stewart St,3,h,910000.0,S,Jellis,8/10/2016,5.2,3056.0,2.0,1.0,1.0,215.0,,,Moreland,-37.7642,144.9688,Northern Metropolitan,11918.0
+7110,Kingsville,74 Chirnside St,3,h,1340000.0,S,Jas,19/11/2016,7.8,3012.0,3.0,2.0,0.0,272.0,132.0,1915.0,Maribyrnong,-37.8079,144.8825,Western Metropolitan,1808.0
+3692,Kew East,2/37 Strathalbyn St,2,u,605000.0,S,Nelson,7/05/2016,7.5,3102.0,2.0,1.0,1.0,0.0,83.0,1960.0,Boroondara,-37.7969,145.0511,Southern Metropolitan,2671.0
+6030,Sunshine North,121 Warwick Rd,3,h,605000.0,SP,Barry,12/11/2016,13.3,3020.0,3.0,1.0,1.0,617.0,,,Brimbank,-37.7683,144.8314,Western Metropolitan,4217.0
+3196,Hawthorn,10/32 Manningtree Rd,2,u,805000.0,S,Kay,22/08/2016,4.6,3122.0,2.0,1.0,1.0,0.0,,1970.0,Boroondara,-37.8235,145.0294,Southern Metropolitan,11308.0
+3173,Hawthorn,2 Fordholm Rd,5,h,4250000.0,PI,Marshall,17/09/2016,4.6,3122.0,5.0,4.0,3.0,1275.0,435.0,1930.0,Boroondara,-37.8291,145.0308,Southern Metropolitan,11308.0
+10506,South Melbourne,67 Dow St,1,h,807500.0,S,Greg,27/05/2017,1.9,3205.0,1.0,1.0,0.0,74.0,,1900.0,Port Phillip,-37.83627,144.9605,Southern Metropolitan,5943.0
+11478,Point Cook,15 Metcalf Wy,4,h,698000.0,S,hockingstuart,15/07/2017,14.7,3030.0,4.0,2.0,2.0,448.0,190.0,2012.0,Wyndham,-37.8914,144.72014,Western Metropolitan,15542.0
+3539,Kensington,119/71 Henry St,1,u,370000.0,VB,Edward,12/06/2016,4.2,3031.0,1.0,1.0,1.0,0.0,50.0,2012.0,Melbourne,-37.7961,144.9261,Northern Metropolitan,5263.0
+439,Avondale Heights,8 Norma Ct,3,h,850000.0,S,Moonee,3/09/2016,10.5,3034.0,3.0,1.0,1.0,593.0,118.0,1970.0,Moonee Valley,-37.7677,144.8674,Western Metropolitan,4502.0
+11442,Mooroolbark,36 Bellara Dr,3,h,637500.0,SP,hockingstuart,15/07/2017,26.5,3138.0,3.0,1.0,1.0,609.0,,,Yarra Ranges,-37.77293,145.30819,Eastern Victoria,8280.0
+5671,South Yarra,37 Grosvenor St,3,h,1810000.0,S,hockingstuart,18/06/2016,3.3,3141.0,3.0,1.0,1.0,211.0,18.0,1906.0,Stonnington,-37.8442,144.9928,Southern Metropolitan,14887.0
+12168,St Kilda,45/151 Fitzroy St,2,u,600000.0,VB,hockingstuart,29/07/2017,5.0,3182.0,2.0,1.0,1.0,0.0,82.0,1930.0,Port Phillip,-37.85911,144.97899999999996,Southern Metropolitan,13240.0
+10542,Thornbury,118 Rossmoyne St,4,h,1400000.0,S,McGrath,27/05/2017,7.0,3071.0,4.0,2.0,0.0,364.0,,,Darebin,-37.75807,145.00782,Northern Metropolitan,8870.0
+1216,Brighton East,2/111 Thomas St,3,t,940000.0,S,hockingstuart,16/04/2016,10.7,3187.0,3.0,2.0,3.0,0.0,,2004.0,Bayside,-37.9089,145.0246,Southern Metropolitan,6938.0
+52,Airport West,13 Etzel St,3,h,805000.0,S,Nelson,10/12/2016,13.5,3042.0,3.0,1.0,1.0,0.0,105.0,1950.0,Moonee Valley,-37.7217,144.8783,Western Metropolitan,3464.0
+6436,Viewbank,3 The Nook,4,h,1050000.0,VB,Nelson,26/07/2016,13.8,3084.0,4.0,2.0,2.0,660.0,202.0,1977.0,Banyule,-37.7375,145.0917,Eastern Metropolitan,2698.0
+3238,Heidelberg Heights,7 Flinders St,2,h,725000.0,S,Haughton,10/12/2016,10.5,3081.0,2.0,1.0,3.0,577.0,,1955.0,Banyule,-37.7368,145.0524,Eastern Metropolitan,2947.0
+2308,Elwood,2/129 Brighton Rd,2,u,684000.0,SP,McGrath,19/11/2016,7.7,3184.0,2.0,1.0,0.0,0.0,98.0,1930.0,Port Phillip,-37.875,144.991,Southern Metropolitan,8989.0
+11871,Yarraville,55 Simpson St,2,h,1044000.0,SP,Jas,22/07/2017,6.3,3013.0,2.0,1.0,0.0,197.0,,,Maribyrnong,-37.81736,144.89133,Western Metropolitan,6543.0
+5171,Reservoir,85 Radford Rd,5,h,791000.0,S,Ray,18/06/2016,11.2,3073.0,4.0,3.0,1.0,961.0,,,Darebin,-37.7024,144.984,Northern Metropolitan,21650.0
+5345,Richmond,2/310 Burnley St,3,t,911000.0,S,Biggin,16/04/2016,2.6,3121.0,3.0,2.0,1.0,0.0,110.0,2000.0,Yarra,-37.8238,145.0072,Northern Metropolitan,14949.0
+7054,Heidelberg,55 Hodgson St,3,h,1076000.0,S,Miles,24/09/2016,10.6,3084.0,3.0,1.0,2.0,674.0,,,Banyule,-37.749,145.0731,Eastern Metropolitan,2890.0
+9311,Roxburgh Park,12 Simmonds Pl,3,h,425000.0,S,Ray,3/06/2017,20.6,3064.0,3.0,2.0,2.0,255.0,141.0,1996.0,Hume,-37.63382,144.92774,Northern Metropolitan,5833.0
+5573,South Melbourne,52 Eastern Rd,3,h,2525000.0,S,Marshall,27/11/2016,2.1,3205.0,3.0,2.0,1.0,234.0,,1863.0,Port Phillip,-37.8355,144.9663,Southern Metropolitan,5943.0
+13375,Brunswick West,33 Irvine Cr,3,h,1160000.0,S,Nelson,26/08/2017,5.2,3055.0,3.0,1.0,2.0,575.0,,,,-37.75461,144.94669,Northern Metropolitan,7082.0
+8459,Thornbury,1/73 Flinders St,2,u,462000.0,S,Nelson,13/05/2017,6.5,3071.0,2.0,1.0,1.0,0.0,,1970.0,Darebin,-37.7561,145.0067,Northern Metropolitan,8870.0
+13284,Rosanna,20 Rhonda St,3,h,1100000.0,VB,Fletchers,23/09/2017,8.9,3084.0,3.0,1.0,2.0,648.0,,,,-37.74738,145.07698,Eastern Metropolitan,3540.0
+5307,Richmond,508/18 Tanner St,1,u,681000.0,S,hockingstuart,10/09/2016,2.6,3121.0,1.0,1.0,1.0,0.0,50.0,2004.0,Yarra,-37.8231,144.9906,Northern Metropolitan,14949.0
+10264,Essendon North,5/8 Keam St,2,u,445000.0,PI,Barry,27/05/2017,8.2,3041.0,2.0,1.0,1.0,92.0,63.4,1970.0,Moonee Valley,-37.7388,144.89983999999995,Western Metropolitan,1308.0
+10576,Bacchus Marsh,4 Lidgett St,3,h,285000.0,S,Ryder,8/07/2017,37.5,3340.0,3.0,1.0,2.0,612.0,,,Moorabool,-37.67344,144.43181,Western Victoria,2871.0
+206,Altona North,252 Millers Rd,4,h,693000.0,SP,Raine&Horne,22/05/2016,11.1,3025.0,4.0,2.0,4.0,315.0,170.0,2008.0,Hobsons Bay,-37.8391,144.8467,Western Metropolitan,5132.0
+9373,Werribee,28 Tyrone St,5,h,750000.0,SP,YPA,3/06/2017,14.7,3030.0,5.0,2.0,2.0,1014.0,,,Wyndham,-37.89407,144.67723999999995,Western Metropolitan,16166.0
+12446,Bentleigh,192 Tucker Rd,4,h,2151000.0,S,Buxton,9/09/2017,11.4,3204.0,4.0,3.0,2.0,811.0,,1975.0,,-37.91637,145.05177,Southern Metropolitan,6795.0
+8761,Camberwell,6/9 Eddy St,2,u,677000.0,S,Noel,1/07/2017,7.7,3124.0,2.0,1.0,1.0,131.0,76.0,1975.0,Boroondara,-37.84716,145.07351,Southern Metropolitan,8920.0
+11115,Maribyrnong,2/10 Pridham St,3,t,940000.0,S,Biggin,12/08/2017,4.3,3032.0,3.0,2.0,2.0,366.0,183.84,2012.0,Maribyrnong,-37.7816,144.88998999999995,Western Metropolitan,4918.0
+9248,Mount Waverley,1/577 High Street Rd,2,u,720000.0,S,Ray,3/06/2017,14.2,3149.0,2.0,1.0,1.0,198.0,,,Monash,-37.87135,145.14334,Eastern Metropolitan,13366.0
+13321,Wantirna South,3 Jonathon Ct,5,h,1400000.0,S,Barry,23/09/2017,14.7,3152.0,5.0,2.0,2.0,796.0,,,,-37.87079,145.22988,Eastern Metropolitan,7082.0
+7912,Glenroy,56 Pecham St,3,h,621000.0,PI,Stockdale,22/04/2017,13.0,3046.0,3.0,1.0,1.0,694.0,,,Moreland,-37.6977,144.9116,Northern Metropolitan,8870.0
+7471,Ascot Vale,17 Monash St,3,h,1230000.0,PI,Nelson,20/05/2017,5.9,3032.0,3.0,1.0,2.0,538.0,,,Moonee Valley,-37.7808,144.9083,Western Metropolitan,6567.0
+7524,Bentleigh East,6 Elswill St,5,h,1351000.0,S,Buxton,20/05/2017,13.9,3165.0,5.0,2.0,2.0,652.0,,,Glen Eira,-37.9311,145.0651,Southern Metropolitan,10969.0
+1712,Carnegie,42 Margaret St,4,h,1506000.0,S,Jellis,4/06/2016,11.4,3163.0,4.0,2.0,2.0,561.0,204.0,1925.0,Glen Eira,-37.8934,145.0633,Southern Metropolitan,7822.0
+11678,Frankston South,18 Blaxland Av,3,h,665000.0,S,hockingstuart,22/07/2017,38.0,3199.0,3.0,1.0,1.0,642.0,,,Frankston,-38.16762,145.13545,South-Eastern Metropolitan,7566.0
+6349,Toorak,4/568 Toorak Rd,3,u,1100000.0,VB,Rodney,4/03/2017,4.6,3142.0,3.0,2.0,1.0,0.0,126.0,1935.0,Stonnington,-37.8429,145.0227,Southern Metropolitan,7217.0
+3765,Maidstone,11d Rooney St,3,t,657000.0,S,Nguyen,26/07/2016,9.2,3012.0,3.0,2.0,2.0,159.0,,,Maribyrnong,-37.7846,144.87,Western Metropolitan,3873.0
+9616,Maidstone,6 Mandrel St,2,t,505500.0,SP,hockingstuart,17/06/2017,6.4,3012.0,2.0,1.0,1.0,59.0,,2014.0,Maribyrnong,-37.77824,144.87427,Western Metropolitan,3873.0
+9778,Ascot Vale,18 McCully St,3,h,990000.0,S,Brad,24/06/2017,4.3,3032.0,3.0,1.0,0.0,196.0,102.0,1900.0,Moonee Valley,-37.77552,144.92022,Western Metropolitan,6567.0
+3943,Maribyrnong,1 Nayook La,3,t,820000.0,VB,Biggin,18/03/2017,8.7,3032.0,3.0,2.0,2.0,275.0,,,Maribyrnong,-37.7719,144.8767,Western Metropolitan,4918.0
+8199,Ormond,2/1 Lillimur Rd,3,u,960000.0,S,hockingstuart,13/05/2017,11.8,3204.0,3.0,2.0,2.0,199.0,167.0,1995.0,Glen Eira,-37.9034,145.0409,Southern Metropolitan,3578.0
+11624,Caulfield North,6/374 Dandenong Rd,2,u,610000.0,PI,Greg,22/07/2017,7.8,3161.0,2.0,1.0,1.0,816.0,88.0,2007.0,Glen Eira,-37.86068,145.01121,Southern Metropolitan,6923.0
+13029,Montmorency,2/50 Coventry St,3,h,756000.0,S,Fletchers,19/08/2017,16.2,3094.0,3.0,1.0,2.0,204.0,102.0,2000.0,,-37.72266,145.12171999999995,Eastern Metropolitan,3891.0
+1764,Carnegie,27 Morgan St,5,h,1900000.0,PI,Buxton,19/11/2016,11.4,3163.0,5.0,3.0,1.0,564.0,,1930.0,Glen Eira,-37.8957,145.0487,Southern Metropolitan,7822.0
+596,Balwyn North,3 Highbury St,3,h,2000000.0,S,R&H,4/03/2017,9.2,3104.0,3.0,1.0,3.0,772.0,,,Boroondara,-37.7938,145.0732,Southern Metropolitan,7809.0
+692,Balwyn North,2/3 Hatfield St,2,u,691500.0,S,Fletchers,30/07/2016,9.2,3104.0,3.0,1.0,1.0,0.0,102.0,1968.0,Boroondara,-37.7938,145.0666,Southern Metropolitan,7809.0
+1604,Camberwell,16 Joffre St,3,t,1515000.0,SP,hockingstuart,18/06/2016,7.8,3124.0,3.0,2.0,2.0,318.0,,,Boroondara,-37.8447,145.0916,Southern Metropolitan,8920.0
+9891,Glen Iris,1 Hillcrest Rd,4,h,2450000.0,S,Marshall,24/06/2017,7.3,3146.0,4.0,3.0,2.0,910.0,,,Boroondara,-37.86194,145.07256,Southern Metropolitan,10412.0
+12439,Balwyn,7 Relowe Cr,5,h,2750000.0,VB,hockingstuart,9/09/2017,7.9,3103.0,5.0,5.0,2.0,1235.0,397.0,2016.0,,-37.80563,145.10304,Southern Metropolitan,5682.0
+20,Abbotsford,3/72 Charles St,4,h,1330000.0,PI,Kay,18/03/2017,2.5,3067.0,4.0,2.0,2.0,780.0,135.0,1900.0,Yarra,-37.8073,144.9952,Northern Metropolitan,4019.0
+7433,Aberfeldie,3/4 Combermere St,2,h,470000.0,S,Barry,8/04/2017,9.1,3040.0,2.0,1.0,1.0,70.0,72.3,1980.0,Moonee Valley,-37.7564,144.9043,Western Metropolitan,1543.0
+12969,Essendon,83 Nimmo St,4,h,1600000.0,S,Nelson,19/08/2017,7.5,3040.0,4.0,4.0,3.0,543.0,259.0,2015.0,,-37.74633,144.89643999999996,Western Metropolitan,9264.0
+3649,Kew,5/13 Hope Ct,2,u,551000.0,S,Jellis,23/04/2016,5.6,3101.0,2.0,1.0,2.0,0.0,86.0,1992.0,Boroondara,-37.7925,145.0263,Southern Metropolitan,10331.0
+10192,Caulfield,5/14 Briggs St,2,u,570000.0,S,hockingstuart,27/05/2017,8.7,3162.0,2.0,1.0,1.0,601.0,65.0,,Glen Eira,-37.88524,145.02398,Southern Metropolitan,2379.0
+7350,Ripponlea,4/16 Hotham Gr,2,u,660000.0,S,RT,12/11/2016,7.4,3185.0,2.0,1.0,0.0,477.0,,,Port Phillip,-37.8804,144.9969,Southern Metropolitan,821.0
+8866,Maidstone,14/4 Crefden St,1,u,280000.0,VB,McGrath,1/07/2017,6.4,3012.0,1.0,1.0,1.0,3826.0,55.0,2009.0,Maribyrnong,-37.77757,144.87232,Western Metropolitan,3873.0
+808,Bentleigh East,34b Lesden St,4,t,1210000.0,S,hockingstuart,6/08/2016,13.9,3165.0,3.0,3.0,2.0,291.0,222.0,2014.0,Glen Eira,-37.9347,145.0546,Southern Metropolitan,10969.0
+2060,Coburg North,47 Boyne St,3,h,745000.0,S,Raine,18/03/2017,9.2,3058.0,3.0,1.0,3.0,473.0,,,Moreland,-37.7316,144.9789,Northern Metropolitan,3445.0
+597,Balwyn North,14 Kawarren St,4,h,1750000.0,S,Kay,4/03/2017,9.2,3104.0,4.0,2.0,2.0,673.0,185.0,1960.0,Boroondara,-37.7856,145.0918,Southern Metropolitan,7809.0
+6943,Fawkner,106 William St,3,h,620000.0,S,Stockdale,27/06/2016,12.4,3060.0,3.0,1.0,2.0,604.0,190.0,1970.0,Moreland,-37.6978,144.9686,Northern Metropolitan,5070.0
+11303,Brunswick West,22 Henderson St,2,h,835000.0,VB,Nelson,15/07/2017,5.2,3055.0,2.0,1.0,1.0,207.0,77.0,1950.0,Moreland,-37.76221,144.94055,Northern Metropolitan,7082.0
+6138,Surrey Hills,66 Durham Rd,4,h,1455000.0,S,Jellis,10/12/2016,11.2,3127.0,4.0,2.0,1.0,494.0,,,Boroondara,-37.8317,145.0901,Southern Metropolitan,5457.0
+4767,Port Melbourne,801/65 Beach St,3,u,2260000.0,S,Marshall,22/05/2016,3.8,3207.0,3.0,2.0,2.0,0.0,450.0,,Port Phillip,-37.842,144.9364,Southern Metropolitan,8648.0
+9769,Albert Park,3/78 Kerferd Rd,2,u,685000.0,PI,Greg,24/06/2017,3.0,3206.0,2.0,1.0,0.0,324.0,58.0,1930.0,Port Phillip,-37.84469,144.95578,Southern Metropolitan,3280.0
+6207,Templestowe Lower,40 Dellfield Dr,5,h,950000.0,PI,Barry,10/09/2016,13.8,3107.0,5.0,3.0,2.0,700.0,220.0,1973.0,Manningham,-37.7658,145.124,Eastern Metropolitan,5420.0
+4944,Preston,4/55 Regent St,2,u,530000.0,S,Nelson,15/10/2016,8.8,3072.0,2.0,1.0,1.0,106.0,74.0,1970.0,Darebin,-37.7306,144.9993,Northern Metropolitan,14577.0
+5857,St Kilda,21/7 Alfred Sq,2,u,520000.0,PI,Whiting,25/02/2017,6.1,3182.0,2.0,1.0,1.0,1235.0,63.0,1980.0,Port Phillip,-37.8645,144.9749,Southern Metropolitan,13240.0
+8227,Pascoe Vale,20 Snell Gr,3,h,770000.0,PI,Brad,29/04/2017,9.9,3044.0,3.0,1.0,1.0,603.0,,,Moreland,-37.7186,144.9318,Northern Metropolitan,7485.0
+11352,Essendon,3/15 Woodvale Cl,2,u,420000.0,S,Nelson,15/07/2017,7.5,3040.0,2.0,1.0,1.0,0.0,,,Moonee Valley,-37.74444,144.92084,Western Metropolitan,9264.0
+7496,Bellfield,345 Waterdale Rd,3,h,1110000.0,S,Haughton,6/05/2017,9.5,3081.0,3.0,1.0,2.0,730.0,,,Banyule,-37.754,145.0453,Eastern Metropolitan,790.0
+5981,Sunshine,8 Station Pl,3,h,880000.0,S,Bells,19/11/2016,12.6,3020.0,3.0,1.0,3.0,463.0,107.0,1925.0,Brimbank,-37.7905,144.8359,Western Metropolitan,3755.0
